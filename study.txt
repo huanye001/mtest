@@ -1,4 +1,4 @@
-study
+for(;;){joy++;}
 
 
 linux—ßœ∞£ª
